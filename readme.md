@@ -1,6 +1,19 @@
 
-### List Repo :
+### List Personal Repo :
+- https://github.com/Antonius1712/CORSEC
+- https://github.com/Antonius1712/LEGAL
+- https://github.com/Antonius1712/LGI-FIXED-ASSET
+- https://github.com/Antonius1712/LGI-COLLECTION
+- https://github.com/Antonius1712/RMFEE
+- https://github.com/Antonius1712/accorpora-anime-site
+- https://github.com/Antonius1712/aplikasi_pelayaran
+- https://github.com/Antonius1712/file-management-system
+- https://github.com/Antonius1712/JP4D_MEMBER
+- https://github.com/Antonius1712/JP4D_CLIENT
+- https://github.com/Antonius1712/JP4D_COMPANY
 
+
+### List usefull Repo :
 - https://github.com/akaunting/akaunting
 - https://github.com/Antonius1712/path-to-senior-engineer-handbook
 - https://github.com/Antonius1712/NexoPOS
